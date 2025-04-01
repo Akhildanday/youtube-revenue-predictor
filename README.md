@@ -1,5 +1,9 @@
 # 📊 YouTube Revenue Predictor
 
+## 🚀 **Live Demo**
+🔗 **Try the App**: [Streamlit Live App](https://akhildanday-youtube-revenue-predictor-app-8l77zv.streamlit.app) 
+
+
 ### 🚀 Predict YouTube video revenue using Machine Learning & Streamlit
 
 ## **🔹 Overview**
